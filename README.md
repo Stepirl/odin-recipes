@@ -1,1 +1,2 @@
 # odin-recipes
+The objective of this assignment is to create a website using html. this website will have a few recipes alongside images, lists, and links to other pages within the same website. im aiming for 5 recipes just so i can REALLY consolidate the knowledge i have already. i will need to use all of the html tools ive learnt of so far, and will try and use the CLI as much as i can so i can get some good practice in. i will edit this when i finish and review what ive done.
